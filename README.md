@@ -16,3 +16,5 @@
 # Check di Bash
 - ssh -T git@github.com
 - Ketik yes
+---
+## ![Image Link](https://github.com/RafaelKKafka/Tugas-1/blob/main/Images/LLL.jpg)
